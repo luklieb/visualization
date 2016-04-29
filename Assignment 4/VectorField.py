@@ -1,3 +1,5 @@
+#Copyright 2016 FAU Erlangen-Nürnberg for educational purposes only
+
 # -*- coding: utf-8 -*-
 # Applied Visualization
 # Class to handle 3D vector fields defined on uniform grids.

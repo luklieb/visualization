@@ -1,3 +1,5 @@
+#Copyright 2016 FAU Erlangen-Nürnberg for educational purposes only
+
 import random
 import math
 
@@ -24,6 +26,7 @@ def checkBounds(p):
     return p
 
 #bilinear interpolation
+#Copyright 2016 FAU Erlangen-Nürnberg
 #img is defined at integer valued indices
 def imgAt(img, x, y):
         #your code here

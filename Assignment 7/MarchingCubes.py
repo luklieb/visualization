@@ -1,3 +1,5 @@
+#Copyright 2016 FAU Erlangen-Nürnberg for educational purposes only
+
 import math
 
 e_pattern = {

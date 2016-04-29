@@ -1,3 +1,5 @@
+#Copyright 2016 FAU Erlangen-Nürnberg for educational purposes only
+
 import sys
 
 ##Function to adress a 2-dimensional matrix

@@ -1,3 +1,6 @@
+#Copyright 2016 FAU Erlangen-Nürnberg for educational purposes only
+
+
 from math import fabs
 
 def linearInterpolate(points, value):
