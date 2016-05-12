@@ -1,5 +1,5 @@
 
-#Copyright 2016 FAU Erlangen-Nürnberg for educational purposes only
+#Copyright 2016 FAU Erlangen-Nuernberg for educational purposes only
 
 # ===================================================================
 # DO NOT CHANGE THESE FUNCTIONS
