@@ -58,6 +58,7 @@ def printImage(array, nrow, ncol):
     for i in range(0,nrow):
         for j in range(0,ncol):
             sys.stdout.write(str(matrix[i][j]))
+        sys.stdout.write("\n")
 
 
 
