@@ -1,0 +1,22 @@
+import math
+
+omega = 2
+alpha = 2
+start = -5.0
+end = 5.0
+inc = 0.1
+x = vtk.vtkDoubleArray
+x.SetName('X-values')
+y = vtk.vtkDoubleArray
+y.SetName('Y-values')
+
+for i in range(start, end, inc):
+	x.InsertNextValue(i)
+	y.InsertNextValue(sin(omega*i)*exp(alpha*i))
+
+table = self.GetOutput()
+table.AddColumn(x)
+table.AddColumn(y)
+
+plotView = createView('XYChartView')
+Render()
